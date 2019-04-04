@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/ReloadContent/Default.aspx) (VB: [Default.aspx](./VB/ReloadContent/Default.aspx))
-* [Default.aspx.cs](./CS/ReloadContent/Default.aspx.cs) (VB: [Default.aspx](./VB/ReloadContent/Default.aspx))
+* [Default.aspx.cs](./CS/ReloadContent/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ReloadContent/Default.aspx.vb))
 <!-- default file list end -->
 # How to reload the ASPxCallbackPanel's content via a callback
 
